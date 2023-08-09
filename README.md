@@ -1,3 +1,3 @@
-# Tchurusbango
+# lig4
 
-Tchurusbango is life
+um minijogo feito em python com a biblioteca do pygame
